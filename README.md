@@ -1,6 +1,8 @@
 ## FRT: Final Future Ready Talent Project by Shubham Singh
 ## Main Idea with this project is to solve the problem of foodie and in critical situation they can cook easily with the help of Yummy Blog and they help others with the help of these amazing vlog items.
-## My Website Link  https://red-tree-09b0f8910.1.azurestaticapps.net/
+## My Website Link  https://red-tree-09b0f8910.1.azurestaticapps.net/\
+## Azure Technolgy Used
+Azure Static web app technology used with the help of Microsoft azure services. 
 
 ## Home Page
 <img width="1120" alt="YummyBlog Home" src="https://user-images.githubusercontent.com/88470262/175782950-48190243-ff0d-4c19-9c79-cc9721df1c50.png">
